@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "301543695993",
+    "firebase_url": "https://realtime-database2-b5d4f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "realtime-database2-b5d4f",
+    "storage_bucket": "realtime-database2-b5d4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301543695993:android:437cd38ee9949336a6d6a8",
+        "android_client_info": {
+          "package_name": "com.arel.myapplicationcrudapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301543695993-ci3aokbjck32s6ttc2er4flkucqaaemo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCKK_MZDBR9iNEytgEX7Oqu5nyMGs6Ef4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301543695993-ci3aokbjck32s6ttc2er4flkucqaaemo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

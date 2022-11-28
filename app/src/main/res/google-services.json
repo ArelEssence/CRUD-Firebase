@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "860938118944",
+    "firebase_url": "https://arel-database-default-rtdb.firebaseio.com",
+    "project_id": "arel-database",
+    "storage_bucket": "arel-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860938118944:android:7ff7a2f5c3b29b64c05945",
+        "android_client_info": {
+          "package_name": "com.arel.firebase8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860938118944-g1q21jetdqup8len67j0dvnkh6912seh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3PYddo_FEQWTjOc_jNHiEMUrax-qIDBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860938118944-g1q21jetdqup8len67j0dvnkh6912seh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860938118944:android:eb43eacb22b93ce6c05945",
+        "android_client_info": {
+          "package_name": "com.arel.loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860938118944-g1q21jetdqup8len67j0dvnkh6912seh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3PYddo_FEQWTjOc_jNHiEMUrax-qIDBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860938118944-g1q21jetdqup8len67j0dvnkh6912seh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
